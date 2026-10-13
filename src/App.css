@@ -1953,8 +1953,11 @@
   line-height: 1.65;
   max-width: 240px;
 }
-  line-height: 1.5;
-  max-width: 200px;
+  .timeline-desc {
+  font-size: 0.95rem;
+  color: var(--text-muted);
+  line-height: 1.65;
+  max-width: 240px;
 }
 
 /* --- Campus Life Gallery --- */
